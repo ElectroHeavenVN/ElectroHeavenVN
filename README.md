@@ -13,9 +13,10 @@
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
 
 ## 🔭 Fearuted works
-- [DragonBoy](https://github.com/pk9r327/Dragonboy): an open-source client of the game [DragonBoy (NgocRongOnline)](https://ngocrongonline.com/) with additional featrues
+- [DragonBoy](https://github.com/pk9r327/Dragonboy): an open-source client of the game [Dragon Boy Online (Ngoc Rong Online)](https://ngocrongonline.com/) with additional featrues.
+- [DataNRO](https://github.com/ElectroHeavenVN/DataNRO): View information of items, monsters, NPCs, maps, etc. of the [Dragon Boy Online (Ngoc Rong Online)](https://ngocrongonline.com/) game and it's biggest pirated server, [Hoi sinh Ngoc Rong](https://hoisinhngocrong.com/). Data is automatically updated every day. 
 - [DiscordWebRichPresence](https://github.com/ElectroHeavenVN/DiscordWebRichPresence): Set your Discord rich presence based on what website you're viewing!
-- [CatBot](https://github.com/ElectroHeavenVN/CatBot): a bad Discord bot that can play music from YouTube, Spotify, SoundCloud, etc. and do other stuff
+- [CatBot](https://github.com/ElectroHeavenVN/CatBot): a bad Discord bot that can play music from YouTube, Spotify, SoundCloud, etc. and do other stuff.
 
 ### 📊 My Github stats
 <div align="center"> 
