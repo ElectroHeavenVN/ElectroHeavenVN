@@ -16,13 +16,20 @@
 - [DragonBoy](https://github.com/pk9r327/Dragonboy): an open-source client of the game [Dragon Boy Online (Ngoc Rong Online)](https://ngocrongonline.com/) with additional featrues.
 - [DataNRO](https://github.com/ElectroHeavenVN/DataNRO): View information of items, monsters, NPCs, maps, etc. of the [Dragon Boy Online (Ngoc Rong Online)](https://ngocrongonline.com/) game and it's biggest pirate server, [Hoi sinh Ngoc Rong](https://hoisinhngocrong.com/). Data is automatically updated every day. 
 - [DiscordWebRichPresence](https://github.com/ElectroHeavenVN/DiscordWebRichPresence): Set your Discord rich presence based on what website you're viewing!
-- [CatBot](https://github.com/ElectroHeavenVN/CatBot): a bad Discord bot that can play music from YouTube, Spotify, SoundCloud, etc. and do other stuff.
+- [TLCActivator](https://github.com/ElectroHeavenVN/TLCActivator): Activator for (almost) any ThanhLC's mods and tools
 
 ### 📊 My Github stats
 <div align="center"> 
   
 ![ElectroHeavenVN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroHeavenVN&text_color=9f9f9f&bg_color=151515)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroHeavenVN&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=3)
+
+</div>
+
+### Join my Discord server!
+<div align="center"> 
+  
+[![My Discord server](https://discord.com/api/guilds/1115634791321190420/widget.png?style=banner4)](https://discord.gg/ekMDKCa5jQ)
 
 </div>
 
