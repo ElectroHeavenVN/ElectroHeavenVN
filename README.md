@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 **I'm ElectroHeavenVN, a student at FPT University!**
 - I'm a programmer and a reverse engineer who loves to tackle Unity-based games, c# applications, and other mysterious programs and software!
 - I also love electrical engineering, embedded programming, and DIY!
@@ -18,7 +18,7 @@
 - [DiscordWebRichPresence](https://github.com/ElectroHeavenVN/DiscordWebRichPresence): Set your Discord rich presence based on what website you're viewing!
 - [TLCActivator](https://github.com/ElectroHeavenVN/TLCActivator): Activator for (almost) any ThanhLC's mods and tools
 
-### 📊 My Github stats
+## 📊 My Github stats
 <div align="center"> 
   
 ![ElectroHeavenVN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroHeavenVN&text_color=9f9f9f&bg_color=151515)
@@ -26,7 +26,18 @@
 
 </div>
 
-### Join my Discord server!
+## 🎵 Song I listen to 
+<div align="center">
+  
+![](https://arpy8-pastfm-backend.hf.space/live?user=ElectroHeavenVN)
+<img hspace="10"></img>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&redirect=true)
+
+</div>
+
+---
+
+### 💬 Join my Discord server!
 <div align="center"> 
   
 [![My Discord server](https://discord.com/api/guilds/1115634791321190420/widget.png?style=banner4)](https://discord.gg/ekMDKCa5jQ)
