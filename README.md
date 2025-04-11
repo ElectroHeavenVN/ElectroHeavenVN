@@ -36,9 +36,7 @@
 
 </div>
 
----
-
-## Anime I watch
+## 📺 Anime I watch
 <div align="center">
   
 [![](https://gist.githubusercontent.com/ElectroHeavenVN/41969e96bb641509e5fb2d2fc4729158/raw/MyAnimeList.svg)](https://myanimelist.net/profile/ElectroHeavenVN)
