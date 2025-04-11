@@ -19,6 +19,6 @@ jobs:
 
           PLUGIN_MYANIMELIST: true
           PLUGIN_MYANIMELIST_USERNAME: ElectroHeavenVN
-          PLUGIN_MYANIMELIST_SECTIONS: anime_favorites, last_activity
+          PLUGIN_MYANIMELIST_SECTIONS: anime_simple_favorites, last_activity
           PLUGIN_MYANIMELIST_LAST_ACTIVITY_MAX: 3
           PLUGIN_MYANIMELIST_LAST_ACTIVITY_MEDIA: anime
