@@ -18,7 +18,6 @@ jobs:
           STYLE: default
 
           PLUGIN_MYANIMELIST: true
-          PLUGIN_MYANIMELIST_HIDE_HEADER: true
           PLUGIN_MYANIMELIST_USERNAME: ElectroHeavenVN
           PLUGIN_MYANIMELIST_SECTIONS: anime_favorites, last_activity
           PLUGIN_MYANIMELIST_ANIME_FAVORITES_MAX: 3
