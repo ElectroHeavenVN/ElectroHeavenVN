@@ -1,4 +1,4 @@
-name: WeebProfile
+name: MAL
 on:
   schedule: 
     - cron: "0 0 * * *"
@@ -7,7 +7,7 @@ jobs:
   weeb_profile:
     runs-on: ubuntu-latest
     steps:
-      - name: 🦀 MyAnimeList 🦀
+      - name: MyAnimeList
         uses: LucasHenriqueDiniz/WeebProfile@main
         with:
           FILENAME: MyAnimeList.svg
