@@ -65,8 +65,8 @@ jobs:
         run: yarn run action:start
         env:
           DISPLAY: :99
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
           DEV: false
           FILENAME: "WeeboProfile.svg"
           GIST_ID: ${{ secrets.GIST_ID }}
