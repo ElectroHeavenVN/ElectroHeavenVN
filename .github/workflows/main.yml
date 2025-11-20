@@ -39,8 +39,6 @@ jobs:
       - name: cloning WeebProfile
         run: git clone https://github.com/LucasHenriqueDiniz/WeebProfile.git
         shell: bash
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: reset to commit
         run: |
           cd WeebProfile
@@ -67,7 +65,6 @@ jobs:
         run: yarn run action:start
         env:
           DISPLAY: :99
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           DEV: false
           FILENAME: "WeeboProfile.svg"
