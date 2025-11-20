@@ -68,7 +68,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
           GH_TOKEN: ${{ secrets.WEEB_GH_TOKEN }}
           DEV: false
-          FILENAME: "WeeboProfile.svg"
+          FILENAME: "MyAnimeList.svg"
           GIST_ID: ${{ secrets.GIST_ID }}
           SIZE: half
           STYLE: default
