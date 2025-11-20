@@ -3,11 +3,11 @@ on:
   schedule: 
     - cron: "0 0 * * *"
   workflow_dispatch:
-inputs:
-  commit-sha1-hash: 
-    description: 'Commit SHA1 hash to reset to'
-    required: false
-    default: 'e342da9abef3074ee55432be09f05df622c4d0a4'
+    inputs:
+      commit-sha1-hash: 
+        description: 'Commit SHA1 hash to reset to'
+        required: false
+        default: 'e342da9abef3074ee55432be09f05df622c4d0a4'
 permissions:
   actions: write
 jobs:
@@ -42,7 +42,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: reset to commit
-        run: git reset --hard ${{ inputs.commit-sha1-hash }}
+        run: git reset --hard ${{ env.commit-hash }}
+        env:
+          commit-hash: ${{ github.event.inputs.commit-sha1-hash || 'e342da9abef3074ee55432be09f05df622c4d0a4' }}
       - name: Set Node.js 22
         uses: actions/setup-node@v2.4.1
         with:
