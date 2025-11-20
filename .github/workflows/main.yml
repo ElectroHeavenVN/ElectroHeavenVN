@@ -42,7 +42,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: reset to commit
-        run: git reset --hard ${{ env.commit-hash }}
+        run: |
+          cd WeebProfile
+          git reset --hard ${{ env.commit-hash }}
         env:
           commit-hash: ${{ github.event.inputs.commit-sha1-hash || 'e342da9abef3074ee55432be09f05df622c4d0a4' }}
       - name: Set Node.js 22
