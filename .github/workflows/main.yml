@@ -68,7 +68,7 @@ jobs:
         env:
           DISPLAY: :99
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           DEV: false
           FILENAME: "WeeboProfile.svg"
           GIST_ID: ${{ secrets.GIST_ID }}
