@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: MyAnimeList
-        uses: LucasHenriqueDiniz/WeebProfile@main
+        uses: LucasHenriqueDiniz/WeebProfile@5f25a38e871690c9f4dcfb83241e95f01a7b93a1
         with:
           FILENAME: MyAnimeList.svg
           GIST_ID: ${{ secrets.GIST_ID }}
