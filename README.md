@@ -12,12 +12,14 @@
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
 
+<!--- 
 ## 🔭 Fearuted works
 - [DataNRO](https://github.com/ElectroHeavenVN/DataNRO): View information of items, monsters, NPCs, maps, etc. of the [Dragon Boy Online (Ngoc Rong Online)](https://ngocrongonline.com/) game and it's biggest pirate server, [Hoi sinh Ngoc Rong](https://hoisinhngocrong.com/). Data is automatically updated every day. 
 - [DiscordWebRichPresence](https://github.com/ElectroHeavenVN/DiscordWebRichPresence): Set your Discord rich presence based on what website you're viewing!
 - [TLCActivator](https://github.com/ElectroHeavenVN/TLCActivator): Activator for (almost) any ThanhLC's mods and tools.
 - [ZepLaoSharp](https://github.com/ElectroHeavenVN/ZepLaoSharp) (Comming soon): Abstraction layer over [Zalo](https://zalo.me/)'s internal API.
 - [MuseDashDLCUnlocker](https://github.com/ElectroHeavenVN/MuseDashDLCUnlocker):  DLC unlocker for [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/) - Play [custom albums](https://github.com/MDMods/CustomAlbums) without spending $35!
+--->
 
 ## 📊 My Github stats
 <div align="center"> 
